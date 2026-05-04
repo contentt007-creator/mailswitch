@@ -6,6 +6,5 @@ build/
 .env
 .env.local
 backend/node_modules/
-backend/dist/
 ios/
 android/
