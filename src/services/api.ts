@@ -1,7 +1,7 @@
 import { Account, Email, EmailDetail } from '../types';
 
 // Production URL — set this to your hosted backend before running `eas build`
-const PROD_URL = 'https://mail-api.umbrellacorphq.com';
+const PROD_URL = 'https://mailapi.umbrellacorphq.com';
 
 // Dev URL — your PC's LAN IP while running locally
 const DEV_URL = 'http://192.168.0.156:3001';
