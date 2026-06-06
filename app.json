@@ -24,7 +24,8 @@
         "backgroundColor": "#1a1a2e"
       },
       "package": "com.mailswitch.app",
-      "versionCode": 1,
+      "versionCode": 2,
+      "usesCleartextTraffic": true,
       "permissions": [
         "android.permission.INTERNET",
         "android.permission.ACCESS_NETWORK_STATE"
